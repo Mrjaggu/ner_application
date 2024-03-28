@@ -10,11 +10,11 @@ Follow these steps to set up and run the application:
 1. Clone the Repository
 Clone this repository to your local machine:
 
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/Mrjaggu/ner_application.git
 
 2. Create a Virtual Environment
 
-cd your_repository
+cd ner_application
 virtualenv venv
 
 Activate the virtual environment:
