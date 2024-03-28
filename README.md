@@ -1,10 +1,10 @@
 # ner_application
 BITS pilani NLP Application semeseter 3 assignment 2
 
-Named Entity Recognition Application
+Named Entity Recognition Application <br>
 This application performs Named Entity Recognition (NER) on input text and displays the identified entities, allowing users to download a table containing the identified entities.
 
-Setup
+Setup <br>
 Follow these steps to set up and run the application:
 
 1. Clone the Repository
@@ -38,12 +38,12 @@ The application will start running on http://localhost:5000/.
 5. Access the Application
 Open your web browser and navigate to http://localhost:5000/ to access the application.
 
-Usage
-Enter your text in the textarea provided.
-Select the entity type (All Entities or Organizations) from the dropdown menu.
-Click on "Process Text" to analyze the text and display the identified entities.
-Click on "Download Entity Table" to download a CSV file containing the identified entities.
-Optionally, use the "Insert Pre-defined Text" button to insert pre-defined text into the textarea.
+Usage<br>
+1. Enter your text in the textarea provided.
+2. Select the entity type (All Entities or Organizations) from the dropdown menu.
+3. Click on "Process Text" to analyze the text and display the identified entities.
+4. Click on "Download Entity Table" to download a CSV file containing the identified entities.
+5. Optionally, use the "Insert Pre-defined Text" button to insert pre-defined text into the textarea.
 
-About
+About <br>
 This application is created by Group 8.
