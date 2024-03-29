@@ -1,0 +1,968 @@
+2024-03-27 15:04:08,578 - WARNING -  * Debugger is active!
+2024-03-27 15:04:08,595 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:04:58,466 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:04:58,467 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:04:58,468 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:04:58,469 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:04:58,470 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:05:00,924 - WARNING -  * Debugger is active!
+2024-03-27 15:05:00,935 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:18:10,228 - INFO - Entities extracted: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-27 15:18:10,232 - INFO - 127.0.0.1 - - [27/Mar/2024 15:18:10] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:18:16,384 - INFO - 127.0.0.1 - - [27/Mar/2024 15:18:16] "GET / HTTP/1.1" 200 -
+2024-03-27 15:18:25,781 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-27 15:18:25,781 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-27 15:18:25,789 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:18:27,757 - WARNING -  * Debugger is active!
+2024-03-27 15:18:27,768 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:18:32,178 - INFO - 127.0.0.1 - - [27/Mar/2024 15:18:32] "GET / HTTP/1.1" 200 -
+2024-03-27 15:18:33,341 - INFO - 127.0.0.1 - - [27/Mar/2024 15:18:33] "GET / HTTP/1.1" 200 -
+2024-03-27 15:18:33,962 - INFO - 127.0.0.1 - - [27/Mar/2024 15:18:33] "GET / HTTP/1.1" 200 -
+2024-03-27 15:18:34,134 - INFO - 127.0.0.1 - - [27/Mar/2024 15:18:34] "GET / HTTP/1.1" 200 -
+2024-03-27 15:18:34,309 - INFO - 127.0.0.1 - - [27/Mar/2024 15:18:34] "GET / HTTP/1.1" 200 -
+2024-03-27 15:18:34,460 - INFO - 127.0.0.1 - - [27/Mar/2024 15:18:34] "GET / HTTP/1.1" 200 -
+2024-03-27 15:18:56,547 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-27 15:18:56,548 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-27 15:18:56,554 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:18:58,386 - WARNING -  * Debugger is active!
+2024-03-27 15:18:58,398 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:19:46,877 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-27 15:19:46,877 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-27 15:19:46,892 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:19:48,757 - WARNING -  * Debugger is active!
+2024-03-27 15:19:48,769 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:20:20,856 - INFO - 127.0.0.1 - - [27/Mar/2024 15:20:20] "GET / HTTP/1.1" 200 -
+2024-03-27 15:20:21,737 - INFO - 127.0.0.1 - - [27/Mar/2024 15:20:21] "GET / HTTP/1.1" 200 -
+2024-03-27 15:20:24,876 - INFO - Entities extracted: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-27 15:20:24,880 - INFO - 127.0.0.1 - - [27/Mar/2024 15:20:24] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:20:45,802 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:20:45,803 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:20:45,804 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:20:45,808 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:20:45,809 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:20:45,810 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:20:45,816 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:20:45,982 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/spacy/__init__.py', reloading
+2024-03-27 15:20:45,984 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:20:45,993 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/spacy/pipeline/__init__.py', reloading
+2024-03-27 15:20:45,993 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/spacy/util.py', reloading
+2024-03-27 15:20:46,003 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/langcodes/__init__.py', reloading
+2024-03-27 15:20:46,015 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/srsly/__init__.py', reloading
+2024-03-27 15:20:46,016 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/thinc/__init__.py', reloading
+2024-03-27 15:20:46,016 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/spacy/about.py', reloading
+2024-03-27 15:20:46,017 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/spacy/lang/__init__.py', reloading
+2024-03-27 15:20:47,148 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:20:49,543 - WARNING -  * Debugger is active!
+2024-03-27 15:20:49,555 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:20:49,974 - INFO - Entities extracted: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-27 15:20:49,979 - INFO - 127.0.0.1 - - [27/Mar/2024 15:20:49] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:29:01,450 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:29:01,451 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:29:01,453 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:29:01,454 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:29:01,455 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:29:01,457 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:29:01,461 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:29:01,468 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:29:02,137 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:29:04,305 - WARNING -  * Debugger is active!
+2024-03-27 15:29:04,317 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:29:08,912 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-27 15:29:08,912 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-27 15:29:08,920 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:29:10,776 - WARNING -  * Debugger is active!
+2024-03-27 15:29:10,786 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:31:11,277 - INFO - 127.0.0.1 - - [27/Mar/2024 15:31:11] "GET / HTTP/1.1" 200 -
+2024-03-27 15:31:20,065 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music palyers.
+2024-03-27 15:31:20,102 - INFO - Extracted entities: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-27 15:31:20,105 - INFO - 127.0.0.1 - - [27/Mar/2024 15:31:20] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:32:49,683 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:32:49,686 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:32:49,689 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:32:49,691 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:32:49,692 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:32:49,694 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:32:49,695 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:32:49,705 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:32:50,144 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:32:52,472 - WARNING -  * Debugger is active!
+2024-03-27 15:32:52,482 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:32:57,474 - INFO - 127.0.0.1 - - [27/Mar/2024 15:32:57] "GET / HTTP/1.1" 200 -
+2024-03-27 15:33:01,073 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music palyers.
+2024-03-27 15:33:01,110 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 22, 'end': 27}, {'text': 'sony', 'start': 99, 'end': 103}]
+2024-03-27 15:33:01,110 - INFO - Extracted ordinal entities: []
+2024-03-27 15:33:01,113 - INFO - 127.0.0.1 - - [27/Mar/2024 15:33:01] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:34:00,372 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:00,373 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:00,374 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:00,374 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:00,375 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:00,376 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:00,378 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:00,385 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:00,949 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:34:03,066 - WARNING -  * Debugger is active!
+2024-03-27 15:34:03,078 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:34:05,648 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:05,649 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:05,651 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:05,652 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:05,653 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:05,655 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:05,659 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:05,661 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:05,689 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:05,973 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:06,776 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:34:08,668 - WARNING -  * Debugger is active!
+2024-03-27 15:34:08,679 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:34:15,428 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music palyers.
+2024-03-27 15:34:15,470 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:34:15,470 - INFO - Extracted ordinal entities: []
+2024-03-27 15:34:15,476 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/flask/app.py', reloading
+2024-03-27 15:34:15,481 - INFO - 127.0.0.1 - - [27/Mar/2024 15:34:15] "[35m[1mPOST /process_text HTTP/1.1[0m" 500 -
+2024-03-27 15:34:16,593 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:34:18,568 - WARNING -  * Debugger is active!
+2024-03-27 15:34:18,579 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:34:44,537 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:44,539 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:44,541 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:44,543 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:44,545 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:44,547 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:44,562 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:34:45,131 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:34:47,186 - WARNING -  * Debugger is active!
+2024-03-27 15:34:47,197 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:34:47,439 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music palyers.
+2024-03-27 15:34:47,650 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:34:47,650 - INFO - Extracted ordinal entities: []
+2024-03-27 15:34:47,654 - INFO - 127.0.0.1 - - [27/Mar/2024 15:34:47] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:34:53,264 - INFO - 127.0.0.1 - - [27/Mar/2024 15:34:53] "GET / HTTP/1.1" 200 -
+2024-03-27 15:34:55,972 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music palyers.
+2024-03-27 15:34:56,006 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:34:56,006 - INFO - Extracted ordinal entities: []
+2024-03-27 15:34:56,009 - INFO - 127.0.0.1 - - [27/Mar/2024 15:34:56] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:34:59,291 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music palyers.
+2024-03-27 15:34:59,322 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-27 15:34:59,322 - INFO - Extracted ordinal entities: []
+2024-03-27 15:34:59,326 - INFO - 127.0.0.1 - - [27/Mar/2024 15:34:59] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:35:06,524 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:06,524 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:06,525 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:06,525 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:06,526 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:06,627 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:06,629 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:06,977 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:07,515 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:35:13,637 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-27 15:35:13,637 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-27 15:35:13,643 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:35:15,507 - WARNING -  * Debugger is active!
+2024-03-27 15:35:15,519 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:35:18,046 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music palyers.
+2024-03-27 15:35:18,093 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-27 15:35:18,093 - INFO - Extracted ordinal entities: []
+2024-03-27 15:35:18,104 - INFO - 127.0.0.1 - - [27/Mar/2024 15:35:18] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:35:32,418 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:32,421 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:32,422 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:32,425 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:32,427 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:32,429 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:32,430 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:32,441 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:32,928 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:35:35,590 - WARNING -  * Debugger is active!
+2024-03-27 15:35:35,607 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:35:39,249 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:39,250 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:39,251 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:39,253 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:39,254 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:39,256 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:39,258 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:39,266 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:35:39,670 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:35:41,516 - WARNING -  * Debugger is active!
+2024-03-27 15:35:41,530 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:35:45,052 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music palyers.
+2024-03-27 15:35:45,083 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-27 15:35:45,084 - INFO - Extracted ordinal entities: []
+2024-03-27 15:35:45,092 - INFO - 127.0.0.1 - - [27/Mar/2024 15:35:45] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:38:04,182 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music palyers.
+2024-03-27 15:38:04,211 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-27 15:38:04,212 - INFO - Extracted ordinal entities: []
+2024-03-27 15:38:04,215 - INFO - 127.0.0.1 - - [27/Mar/2024 15:38:04] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:38:06,649 - INFO - 127.0.0.1 - - [27/Mar/2024 15:38:06] "GET / HTTP/1.1" 200 -
+2024-03-27 15:38:07,611 - INFO - 127.0.0.1 - - [27/Mar/2024 15:38:07] "GET / HTTP/1.1" 200 -
+2024-03-27 15:38:07,875 - INFO - 127.0.0.1 - - [27/Mar/2024 15:38:07] "GET / HTTP/1.1" 200 -
+2024-03-27 15:38:08,051 - INFO - 127.0.0.1 - - [27/Mar/2024 15:38:08] "GET / HTTP/1.1" 200 -
+2024-03-27 15:38:08,219 - INFO - 127.0.0.1 - - [27/Mar/2024 15:38:08] "GET / HTTP/1.1" 200 -
+2024-03-27 15:38:08,394 - INFO - 127.0.0.1 - - [27/Mar/2024 15:38:08] "GET / HTTP/1.1" 200 -
+2024-03-27 15:38:08,529 - INFO - 127.0.0.1 - - [27/Mar/2024 15:38:08] "GET / HTTP/1.1" 200 -
+2024-03-27 15:38:08,698 - INFO - 127.0.0.1 - - [27/Mar/2024 15:38:08] "GET / HTTP/1.1" 200 -
+2024-03-27 15:38:08,876 - INFO - 127.0.0.1 - - [27/Mar/2024 15:38:08] "GET / HTTP/1.1" 200 -
+2024-03-27 15:38:12,272 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music palyers.
+2024-03-27 15:38:12,304 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:38:12,305 - INFO - Extracted ordinal entities: []
+2024-03-27 15:38:12,309 - INFO - 127.0.0.1 - - [27/Mar/2024 15:38:12] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:39:15,546 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music palyers.
+2024-03-27 15:39:15,580 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:39:15,580 - INFO - Extracted ordinal entities: []
+2024-03-27 15:39:15,584 - INFO - 127.0.0.1 - - [27/Mar/2024 15:39:15] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:39:20,103 - INFO - 127.0.0.1 - - [27/Mar/2024 15:39:20] "GET / HTTP/1.1" 200 -
+2024-03-27 15:39:23,889 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music palyers.
+2024-03-27 15:39:23,898 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:39:23,899 - INFO - Extracted ordinal entities: []
+2024-03-27 15:39:23,900 - INFO - 127.0.0.1 - - [27/Mar/2024 15:39:23] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:41:59,871 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music palyers.
+2024-03-27 15:41:59,903 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:41:59,904 - INFO - Extracted ordinal entities: []
+2024-03-27 15:41:59,907 - INFO - 127.0.0.1 - - [27/Mar/2024 15:41:59] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:42:02,866 - INFO - 127.0.0.1 - - [27/Mar/2024 15:42:02] "GET / HTTP/1.1" 200 -
+2024-03-27 15:43:14,027 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:43:14,057 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:43:14,057 - INFO - Extracted ordinal entities: []
+2024-03-27 15:43:14,060 - INFO - 127.0.0.1 - - [27/Mar/2024 15:43:14] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:43:27,221 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-27 15:43:27,221 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-27 15:43:27,230 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:43:28,999 - WARNING -  * Debugger is active!
+2024-03-27 15:43:29,010 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:43:37,925 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:43:37,952 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:43:37,953 - INFO - Extracted ordinal entities: []
+2024-03-27 15:43:37,960 - INFO - 127.0.0.1 - - [27/Mar/2024 15:43:37] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:43:43,664 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:43:43,710 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-27 15:43:43,710 - INFO - Extracted ordinal entities: []
+2024-03-27 15:43:43,714 - INFO - 127.0.0.1 - - [27/Mar/2024 15:43:43] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:43:47,608 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:43:47,640 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-27 15:43:47,640 - INFO - Extracted ordinal entities: []
+2024-03-27 15:43:47,643 - INFO - 127.0.0.1 - - [27/Mar/2024 15:43:47] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:43:47,652 - INFO - 127.0.0.1 - - [27/Mar/2024 15:43:47] "[33mGET /downloads/entity_table.html HTTP/1.1[0m" 404 -
+2024-03-27 15:44:21,492 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:44:22,100 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:44:24,052 - WARNING -  * Debugger is active!
+2024-03-27 15:44:24,063 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:45:50,310 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:45:50,346 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-27 15:45:50,346 - INFO - Extracted ordinal entities: []
+2024-03-27 15:45:50,351 - INFO - 127.0.0.1 - - [27/Mar/2024 15:45:50] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:45:57,590 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-27 15:45:57,590 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-27 15:45:57,595 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:45:59,395 - WARNING -  * Debugger is active!
+2024-03-27 15:45:59,406 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:46:06,545 - INFO - 127.0.0.1 - - [27/Mar/2024 15:46:06] "GET / HTTP/1.1" 200 -
+2024-03-27 15:46:11,453 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:46:11,487 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-27 15:46:11,488 - INFO - Extracted ordinal entities: []
+2024-03-27 15:46:11,493 - INFO - 127.0.0.1 - - [27/Mar/2024 15:46:11] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:46:56,611 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-27 15:46:56,611 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-27 15:46:56,615 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:46:58,939 - WARNING -  * Debugger is active!
+2024-03-27 15:46:58,950 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:47:03,283 - INFO - 127.0.0.1 - - [27/Mar/2024 15:47:03] "GET / HTTP/1.1" 200 -
+2024-03-27 15:47:06,535 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:47:06,566 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:47:06,566 - INFO - Extracted ordinal entities: []
+2024-03-27 15:47:06,571 - INFO - 127.0.0.1 - - [27/Mar/2024 15:47:06] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:47:29,844 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:47:29,861 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:47:29,862 - INFO - Extracted ordinal entities: []
+2024-03-27 15:47:29,867 - INFO - 127.0.0.1 - - [27/Mar/2024 15:47:29] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:47:30,565 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:47:30,597 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:47:30,597 - INFO - Extracted ordinal entities: []
+2024-03-27 15:47:30,601 - INFO - 127.0.0.1 - - [27/Mar/2024 15:47:30] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:47:30,724 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:47:30,754 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:47:30,754 - INFO - Extracted ordinal entities: []
+2024-03-27 15:47:30,759 - INFO - 127.0.0.1 - - [27/Mar/2024 15:47:30] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:47:30,884 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:47:30,911 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:47:30,911 - INFO - Extracted ordinal entities: []
+2024-03-27 15:47:30,914 - INFO - 127.0.0.1 - - [27/Mar/2024 15:47:30] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:47:31,035 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:47:31,068 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:47:31,069 - INFO - Extracted ordinal entities: []
+2024-03-27 15:47:31,072 - INFO - 127.0.0.1 - - [27/Mar/2024 15:47:31] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:47:31,189 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:47:31,221 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:47:31,222 - INFO - Extracted ordinal entities: []
+2024-03-27 15:47:31,226 - INFO - 127.0.0.1 - - [27/Mar/2024 15:47:31] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:47:31,342 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:47:31,372 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:47:31,373 - INFO - Extracted ordinal entities: []
+2024-03-27 15:47:31,375 - INFO - 127.0.0.1 - - [27/Mar/2024 15:47:31] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:47:45,167 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:47:45,187 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:47:45,187 - INFO - Extracted ordinal entities: []
+2024-03-27 15:47:45,192 - INFO - 127.0.0.1 - - [27/Mar/2024 15:47:45] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:47:48,048 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:47:48,080 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:47:48,080 - INFO - Extracted ordinal entities: []
+2024-03-27 15:47:48,084 - INFO - 127.0.0.1 - - [27/Mar/2024 15:47:48] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:47:48,781 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:47:48,827 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:47:48,827 - INFO - Extracted ordinal entities: []
+2024-03-27 15:47:48,831 - INFO - 127.0.0.1 - - [27/Mar/2024 15:47:48] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:47:49,490 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:47:49,510 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:47:49,510 - INFO - Extracted ordinal entities: []
+2024-03-27 15:47:49,514 - INFO - 127.0.0.1 - - [27/Mar/2024 15:47:49] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:47:49,662 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:47:49,692 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:47:49,693 - INFO - Extracted ordinal entities: []
+2024-03-27 15:47:49,696 - INFO - 127.0.0.1 - - [27/Mar/2024 15:47:49] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:47:49,842 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:47:49,870 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:47:49,871 - INFO - Extracted ordinal entities: []
+2024-03-27 15:47:49,875 - INFO - 127.0.0.1 - - [27/Mar/2024 15:47:49] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:47:50,013 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:47:50,046 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:47:50,046 - INFO - Extracted ordinal entities: []
+2024-03-27 15:47:50,049 - INFO - 127.0.0.1 - - [27/Mar/2024 15:47:50] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:47:50,156 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:47:50,187 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:47:50,187 - INFO - Extracted ordinal entities: []
+2024-03-27 15:47:50,191 - INFO - 127.0.0.1 - - [27/Mar/2024 15:47:50] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:47:55,443 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-27 15:47:55,443 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-27 15:47:55,450 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:47:57,626 - WARNING -  * Debugger is active!
+2024-03-27 15:47:57,653 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:48:01,084 - INFO - 127.0.0.1 - - [27/Mar/2024 15:48:01] "GET / HTTP/1.1" 200 -
+2024-03-27 15:48:04,825 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:48:04,861 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:48:04,861 - INFO - Extracted ordinal entities: []
+2024-03-27 15:48:04,867 - INFO - 127.0.0.1 - - [27/Mar/2024 15:48:04] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:49:03,752 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-03-27 15:49:03,752 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-27 15:49:03,757 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:49:06,517 - WARNING -  * Debugger is active!
+2024-03-27 15:49:06,530 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:49:11,266 - INFO - 127.0.0.1 - - [27/Mar/2024 15:49:11] "GET / HTTP/1.1" 200 -
+2024-03-27 15:49:14,833 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:49:14,867 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:49:14,867 - INFO - Extracted ordinal entities: []
+2024-03-27 15:49:14,872 - INFO - 127.0.0.1 - - [27/Mar/2024 15:49:14] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:49:35,593 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:49:35,594 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:49:35,595 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:49:35,596 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:49:35,597 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:49:35,598 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:49:35,599 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:49:35,606 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:49:36,286 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:49:38,794 - WARNING -  * Debugger is active!
+2024-03-27 15:49:38,805 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:49:40,203 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:49:40,205 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:49:40,207 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:49:40,209 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:49:40,210 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:49:40,211 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:49:40,986 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:49:41,556 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:49:51,681 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-27 15:49:51,682 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-27 15:49:51,687 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:49:53,552 - WARNING -  * Debugger is active!
+2024-03-27 15:49:53,563 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:50:17,834 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:50:17,836 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:50:17,839 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:50:17,840 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:50:17,842 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:50:17,843 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:50:17,845 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:50:17,855 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:50:17,964 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-27 15:50:19,124 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:50:29,406 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-27 15:50:29,406 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-27 15:50:29,413 - INFO -  * Restarting with watchdog (inotify)
+2024-03-27 15:50:31,171 - WARNING -  * Debugger is active!
+2024-03-27 15:50:31,182 - INFO -  * Debugger PIN: 625-412-509
+2024-03-27 15:50:36,924 - INFO - 127.0.0.1 - - [27/Mar/2024 15:50:36] "GET / HTTP/1.1" 200 -
+2024-03-27 15:50:37,178 - INFO - 127.0.0.1 - - [27/Mar/2024 15:50:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-27 15:50:41,484 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:50:41,525 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:50:41,526 - INFO - Extracted ordinal entities: []
+2024-03-27 15:50:41,533 - INFO - 127.0.0.1 - - [27/Mar/2024 15:50:41] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:50:48,937 - INFO - 127.0.0.1 - - [27/Mar/2024 15:50:48] "GET / HTTP/1.1" 200 -
+2024-03-27 15:50:49,040 - INFO - 127.0.0.1 - - [27/Mar/2024 15:50:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-27 15:50:51,862 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:50:51,894 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:50:51,895 - INFO - Extracted ordinal entities: []
+2024-03-27 15:50:51,897 - INFO - 127.0.0.1 - - [27/Mar/2024 15:50:51] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 15:51:15,666 - INFO - 127.0.0.1 - - [27/Mar/2024 15:51:15] "GET / HTTP/1.1" 200 -
+2024-03-27 15:51:18,643 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 15:51:18,674 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 15:51:18,675 - INFO - Extracted ordinal entities: []
+2024-03-27 15:51:18,678 - INFO - 127.0.0.1 - - [27/Mar/2024 15:51:18] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 16:03:08,365 - INFO - 127.0.0.1 - - [27/Mar/2024 16:03:08] "GET / HTTP/1.1" 200 -
+2024-03-27 16:03:08,733 - INFO - 127.0.0.1 - - [27/Mar/2024 16:03:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-27 16:03:15,048 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 16:03:15,080 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 16:03:15,081 - INFO - Extracted ordinal entities: []
+2024-03-27 16:03:15,084 - INFO - 127.0.0.1 - - [27/Mar/2024 16:03:15] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 16:03:33,897 - INFO - 127.0.0.1 - - [27/Mar/2024 16:03:33] "GET / HTTP/1.1" 200 -
+2024-03-27 16:03:34,220 - INFO - 127.0.0.1 - - [27/Mar/2024 16:03:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-27 16:03:35,922 - INFO - 127.0.0.1 - - [27/Mar/2024 16:03:35] "GET / HTTP/1.1" 200 -
+2024-03-27 16:03:40,699 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 16:03:40,733 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 16:03:40,733 - INFO - Extracted ordinal entities: []
+2024-03-27 16:03:40,737 - INFO - 127.0.0.1 - - [27/Mar/2024 16:03:40] "POST /process_text HTTP/1.1" 200 -
+2024-03-27 16:04:32,253 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold only 7 thousand walkman music players.
+2024-03-27 16:04:32,270 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'only 7 thousand', 'start': 109, 'end': 124, 'label': 'CARDINAL'}]
+2024-03-27 16:04:32,271 - INFO - Extracted ordinal entities: []
+2024-03-27 16:04:32,275 - INFO - 127.0.0.1 - - [27/Mar/2024 16:04:32] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 10:42:52,304 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-28 10:42:52,305 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-28 10:42:52,317 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 10:42:54,107 - WARNING -  * Debugger is active!
+2024-03-28 10:42:54,134 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 10:43:18,718 - INFO - 127.0.0.1 - - [28/Mar/2024 10:43:18] "GET / HTTP/1.1" 200 -
+2024-03-28 10:43:18,846 - INFO - 127.0.0.1 - - [28/Mar/2024 10:43:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-03-28 10:43:40,855 - INFO - Received text: apple had solde more than 1000 thousand iphones.
+2024-03-28 10:43:40,887 - INFO - Extracted organization entities: [{'text': 'apple', 'start': 0, 'end': 5, 'label': 'ORG'}, {'text': 'more than 1000 thousand', 'start': 16, 'end': 39, 'label': 'CARDINAL'}]
+2024-03-28 10:43:40,887 - INFO - Extracted ordinal entities: []
+2024-03-28 10:43:40,894 - INFO - 127.0.0.1 - - [28/Mar/2024 10:43:40] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 10:48:04,156 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-28 10:48:04,157 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-28 10:48:04,162 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 10:48:05,900 - WARNING -  * Debugger is active!
+2024-03-28 10:48:05,910 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 10:48:10,913 - INFO - 127.0.0.1 - - [28/Mar/2024 10:48:10] "GET / HTTP/1.1" 200 -
+2024-03-28 10:48:13,774 - INFO - 127.0.0.1 - - [28/Mar/2024 10:48:13] "GET / HTTP/1.1" 200 -
+2024-03-28 10:48:19,656 - INFO - 127.0.0.1 - - [28/Mar/2024 10:48:19] "GET / HTTP/1.1" 200 -
+2024-03-28 10:49:19,092 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-28 10:49:19,093 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-28 10:49:19,097 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 10:49:20,966 - WARNING -  * Debugger is active!
+2024-03-28 10:49:20,981 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 10:49:21,560 - INFO - 127.0.0.1 - - [28/Mar/2024 10:49:21] "GET / HTTP/1.1" 200 -
+2024-03-28 10:49:46,861 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 10:49:46,893 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}, {'text': '5000', 'start': 21, 'end': 25, 'label': 'CARDINAL'}, {'text': 'the last quarter year', 'start': 39, 'end': 60, 'label': 'DATE'}]
+2024-03-28 10:49:46,893 - INFO - Extracted ordinal entities: []
+2024-03-28 10:49:46,900 - INFO - 127.0.0.1 - - [28/Mar/2024 10:49:46] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 10:49:54,733 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 10:49:54,760 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}]
+2024-03-28 10:49:54,760 - INFO - Extracted ordinal entities: []
+2024-03-28 10:49:54,764 - INFO - 127.0.0.1 - - [28/Mar/2024 10:49:54] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 10:50:00,383 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 10:50:00,412 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}]
+2024-03-28 10:50:00,413 - INFO - Extracted ordinal entities: []
+2024-03-28 10:50:00,416 - INFO - 127.0.0.1 - - [28/Mar/2024 10:50:00] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 10:52:14,575 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-28 10:52:14,575 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-28 10:52:14,584 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 10:52:17,140 - WARNING -  * Debugger is active!
+2024-03-28 10:52:17,150 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 10:52:18,827 - INFO - 127.0.0.1 - - [28/Mar/2024 10:52:18] "GET / HTTP/1.1" 200 -
+2024-03-28 10:52:22,683 - INFO - 127.0.0.1 - - [28/Mar/2024 10:52:22] "GET / HTTP/1.1" 200 -
+2024-03-28 10:52:23,237 - INFO - 127.0.0.1 - - [28/Mar/2024 10:52:23] "GET / HTTP/1.1" 200 -
+2024-03-28 10:52:23,402 - INFO - 127.0.0.1 - - [28/Mar/2024 10:52:23] "GET / HTTP/1.1" 200 -
+2024-03-28 10:52:23,555 - INFO - 127.0.0.1 - - [28/Mar/2024 10:52:23] "GET / HTTP/1.1" 200 -
+2024-03-28 10:52:23,684 - INFO - 127.0.0.1 - - [28/Mar/2024 10:52:23] "GET / HTTP/1.1" 200 -
+2024-03-28 10:52:46,299 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-28 10:52:46,299 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-28 10:52:46,305 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 10:52:48,604 - WARNING -  * Debugger is active!
+2024-03-28 10:52:48,632 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 10:52:49,239 - INFO - 127.0.0.1 - - [28/Mar/2024 10:52:49] "GET / HTTP/1.1" 200 -
+2024-03-28 10:52:59,193 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 10:52:59,223 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}]
+2024-03-28 10:52:59,224 - INFO - Extracted ordinal entities: []
+2024-03-28 10:52:59,230 - INFO - 127.0.0.1 - - [28/Mar/2024 10:52:59] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 10:53:59,026 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 10:53:59,027 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 10:53:59,028 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 10:53:59,030 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 10:53:59,051 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 10:53:59,999 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 10:54:00,390 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 10:54:04,017 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-28 10:54:04,017 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-28 10:54:04,024 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 10:54:07,154 - WARNING -  * Debugger is active!
+2024-03-28 10:54:07,169 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 10:54:07,603 - INFO - 127.0.0.1 - - [28/Mar/2024 10:54:07] "GET / HTTP/1.1" 200 -
+2024-03-28 10:54:13,973 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 10:54:13,997 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}, {'text': '5000', 'start': 21, 'end': 25, 'label': 'CARDINAL'}, {'text': 'the last quarter year', 'start': 39, 'end': 60, 'label': 'DATE'}]
+2024-03-28 10:54:13,997 - INFO - Extracted ordinal entities: []
+2024-03-28 10:54:14,005 - INFO - 127.0.0.1 - - [28/Mar/2024 10:54:14] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 10:54:30,579 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 10:54:30,603 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}, {'text': '5000', 'start': 21, 'end': 25, 'label': 'CARDINAL'}, {'text': 'the last quarter year', 'start': 39, 'end': 60, 'label': 'DATE'}]
+2024-03-28 10:54:30,604 - INFO - Extracted ordinal entities: []
+2024-03-28 10:54:30,607 - INFO - 127.0.0.1 - - [28/Mar/2024 10:54:30] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 10:57:30,491 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 10:57:30,493 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 10:57:30,495 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 10:57:30,498 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 10:57:30,963 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 10:57:35,800 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-28 10:57:35,801 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-28 10:57:35,806 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 10:57:38,870 - WARNING -  * Debugger is active!
+2024-03-28 10:57:38,882 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 10:57:39,158 - INFO - 127.0.0.1 - - [28/Mar/2024 10:57:39] "GET / HTTP/1.1" 200 -
+2024-03-28 10:57:46,375 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 10:57:46,403 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}, {'text': '5000', 'start': 21, 'end': 25, 'label': 'CARDINAL'}, {'text': 'the last quarter year', 'start': 39, 'end': 60, 'label': 'DATE'}]
+2024-03-28 10:57:46,403 - INFO - Extracted ordinal entities: []
+2024-03-28 10:57:46,408 - INFO - 127.0.0.1 - - [28/Mar/2024 10:57:46] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 10:57:52,215 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 10:57:52,242 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}, {'text': '5000', 'start': 21, 'end': 25, 'label': 'CARDINAL'}, {'text': 'the last quarter year', 'start': 39, 'end': 60, 'label': 'DATE'}]
+2024-03-28 10:57:52,242 - INFO - Extracted ordinal entities: []
+2024-03-28 10:57:52,245 - INFO - 127.0.0.1 - - [28/Mar/2024 10:57:52] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 10:58:26,804 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-28 10:58:26,804 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-28 10:58:26,811 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 10:58:29,279 - WARNING -  * Debugger is active!
+2024-03-28 10:58:29,290 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 10:58:34,379 - INFO - 127.0.0.1 - - [28/Mar/2024 10:58:34] "GET / HTTP/1.1" 200 -
+2024-03-28 10:58:40,992 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 10:58:41,026 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}]
+2024-03-28 10:58:41,027 - INFO - Extracted ordinal entities: []
+2024-03-28 10:58:41,033 - INFO - 127.0.0.1 - - [28/Mar/2024 10:58:41] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 10:59:02,610 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 10:59:02,642 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}, {'text': '5000', 'start': 21, 'end': 25, 'label': 'CARDINAL'}, {'text': 'the last quarter year', 'start': 39, 'end': 60, 'label': 'DATE'}]
+2024-03-28 10:59:02,643 - INFO - Extracted ordinal entities: []
+2024-03-28 10:59:02,645 - INFO - 127.0.0.1 - - [28/Mar/2024 10:59:02] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 10:59:19,828 - INFO - 127.0.0.1 - - [28/Mar/2024 10:59:19] "GET / HTTP/1.1" 200 -
+2024-03-28 10:59:26,171 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 10:59:26,198 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}, {'text': '5000', 'start': 21, 'end': 25, 'label': 'CARDINAL'}, {'text': 'the last quarter year', 'start': 39, 'end': 60, 'label': 'DATE'}]
+2024-03-28 10:59:26,199 - INFO - Extracted ordinal entities: []
+2024-03-28 10:59:26,202 - INFO - 127.0.0.1 - - [28/Mar/2024 10:59:26] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:00:48,018 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:00:48,019 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:00:48,020 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:00:48,022 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:00:48,035 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:00:48,554 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:00:50,786 - WARNING -  * Debugger is active!
+2024-03-28 11:00:50,807 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:00:53,503 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:00:53,504 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:00:53,506 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:00:53,507 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:00:53,518 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:00:53,998 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:00:53,999 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/spacy/__init__.py', reloading
+2024-03-28 11:00:54,004 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/spacy/pipeline/__init__.py', reloading
+2024-03-28 11:00:54,005 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/spacy/util.py', reloading
+2024-03-28 11:00:54,015 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/catalogue/__init__.py', reloading
+2024-03-28 11:00:54,016 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/langcodes/__init__.py', reloading
+2024-03-28 11:00:54,027 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/srsly/__init__.py', reloading
+2024-03-28 11:00:54,027 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/thinc/__init__.py', reloading
+2024-03-28 11:00:54,028 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/spacy/about.py', reloading
+2024-03-28 11:00:54,028 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/spacy/lang/__init__.py', reloading
+2024-03-28 11:00:54,028 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/catalogue/_importlib_metadata/__init__.py', reloading
+2024-03-28 11:00:54,029 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/zipp/__init__.py', reloading
+2024-03-28 11:00:54,630 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:00:56,864 - WARNING -  * Debugger is active!
+2024-03-28 11:00:56,875 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:00:57,309 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:00:57,310 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:00:57,311 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:00:57,311 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:00:57,324 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:00:57,998 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:00:58,700 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:01:01,204 - WARNING -  * Debugger is active!
+2024-03-28 11:01:01,216 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:01:02,970 - INFO - 127.0.0.1 - - [28/Mar/2024 11:01:02] "GET / HTTP/1.1" 200 -
+2024-03-28 11:01:09,564 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 11:01:09,595 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}, {'text': '5000', 'start': 21, 'end': 25, 'label': 'CARDINAL'}, {'text': 'the last quarter year', 'start': 39, 'end': 60, 'label': 'DATE'}]
+2024-03-28 11:01:09,596 - INFO - Extracted ordinal entities: []
+2024-03-28 11:01:09,602 - INFO - 127.0.0.1 - - [28/Mar/2024 11:01:09] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:01:33,336 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:01:33,336 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:01:33,337 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:01:33,338 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:01:33,345 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:01:33,817 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:01:36,299 - WARNING -  * Debugger is active!
+2024-03-28 11:01:36,310 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:01:36,628 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:01:36,628 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:01:36,629 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:01:36,629 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:01:36,636 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:01:37,009 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:01:38,061 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:01:40,315 - WARNING -  * Debugger is active!
+2024-03-28 11:01:40,326 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:01:43,643 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:01:43,645 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:01:43,646 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:01:43,647 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:01:43,684 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:01:44,296 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:01:46,888 - WARNING -  * Debugger is active!
+2024-03-28 11:01:46,903 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:01:48,515 - INFO - 127.0.0.1 - - [28/Mar/2024 11:01:48] "GET / HTTP/1.1" 200 -
+2024-03-28 11:01:54,709 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 11:01:54,746 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/flask/app.py', reloading
+2024-03-28 11:01:54,749 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:01:54,753 - INFO - 127.0.0.1 - - [28/Mar/2024 11:01:54] "[35m[1mPOST /process_text HTTP/1.1[0m" 500 -
+2024-03-28 11:01:56,061 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:01:58,294 - WARNING -  * Debugger is active!
+2024-03-28 11:01:58,305 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:02:05,066 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:02:05,068 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:02:05,070 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:02:05,071 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:02:05,093 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:02:06,318 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:02:08,186 - WARNING -  * Debugger is active!
+2024-03-28 11:02:08,196 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:02:23,110 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:02:23,111 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:02:23,113 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:02:23,114 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:02:23,990 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:02:24,361 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:02:27,206 - WARNING -  * Debugger is active!
+2024-03-28 11:02:27,221 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:02:27,503 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 11:02:27,508 - INFO - 127.0.0.1 - - [28/Mar/2024 11:02:27] "GET / HTTP/1.1" 200 -
+2024-03-28 11:02:27,540 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}, {'text': '5000', 'start': 21, 'end': 25, 'label': 'CARDINAL'}, {'text': 'the last quarter year', 'start': 39, 'end': 60, 'label': 'DATE'}]
+2024-03-28 11:02:27,544 - INFO - Extracted ordinal entities: []
+2024-03-28 11:02:27,572 - INFO - 127.0.0.1 - - [28/Mar/2024 11:02:27] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:03:02,657 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:03:02,659 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:03:02,661 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:03:02,662 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:03:02,678 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:03:03,041 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:03:03,043 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/spacy/__init__.py', reloading
+2024-03-28 11:03:03,057 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/spacy/pipeline/__init__.py', reloading
+2024-03-28 11:03:03,057 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/spacy/util.py', reloading
+2024-03-28 11:03:03,066 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/catalogue/__init__.py', reloading
+2024-03-28 11:03:03,067 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/langcodes/__init__.py', reloading
+2024-03-28 11:03:03,071 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/srsly/__init__.py', reloading
+2024-03-28 11:03:03,071 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/thinc/__init__.py', reloading
+2024-03-28 11:03:03,072 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/spacy/about.py', reloading
+2024-03-28 11:03:03,072 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/spacy/lang/__init__.py', reloading
+2024-03-28 11:03:03,072 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/catalogue/_importlib_metadata/__init__.py', reloading
+2024-03-28 11:03:03,073 - INFO -  * Detected change in '/home/ajay/Myproject_venv/lib/python3.7/site-packages/zipp/__init__.py', reloading
+2024-03-28 11:03:03,724 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:03:06,146 - WARNING -  * Debugger is active!
+2024-03-28 11:03:06,165 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:03:10,049 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:03:10,052 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:03:10,053 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:03:10,054 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:03:10,061 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:03:11,083 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:03:43,351 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-28 11:03:43,351 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-28 11:03:43,356 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:03:45,144 - WARNING -  * Debugger is active!
+2024-03-28 11:03:45,154 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:03:45,721 - INFO - 127.0.0.1 - - [28/Mar/2024 11:03:45] "GET / HTTP/1.1" 200 -
+2024-03-28 11:03:51,536 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 11:03:51,569 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}, {'text': '5000', 'start': 21, 'end': 25, 'label': 'CARDINAL'}, {'text': 'the last quarter year', 'start': 39, 'end': 60, 'label': 'DATE'}]
+2024-03-28 11:03:51,570 - INFO - Extracted ordinal entities: []
+2024-03-28 11:03:51,576 - INFO - 127.0.0.1 - - [28/Mar/2024 11:03:51] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:04:06,845 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:04:06,846 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:04:06,848 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:04:06,850 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:04:06,861 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:04:07,000 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:04:07,526 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:04:09,521 - WARNING -  * Debugger is active!
+2024-03-28 11:04:09,533 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:04:12,486 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:04:12,487 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:04:12,487 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:04:12,487 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:04:12,495 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:04:13,007 - INFO -  * Detected change in '/home/ajay/NLP_assignment2/app.py', reloading
+2024-03-28 11:04:13,358 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:04:15,893 - WARNING -  * Debugger is active!
+2024-03-28 11:04:15,908 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:04:17,289 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 11:04:17,305 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}, {'text': '5000', 'start': 21, 'end': 25, 'label': 'CARDINAL'}, {'text': 'the last quarter year', 'start': 39, 'end': 60, 'label': 'DATE'}]
+2024-03-28 11:04:17,305 - INFO - Extracted ordinal entities: [{'entity': '5000', 'words_from_text': '5000'}]
+2024-03-28 11:04:17,313 - INFO - 127.0.0.1 - - [28/Mar/2024 11:04:17] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:04:53,468 - INFO - 127.0.0.1 - - [28/Mar/2024 11:04:53] "GET / HTTP/1.1" 200 -
+2024-03-28 11:05:01,378 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-28 11:05:01,378 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-28 11:05:01,383 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:05:03,130 - WARNING -  * Debugger is active!
+2024-03-28 11:05:03,141 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:05:11,075 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 11:05:11,105 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}, {'text': '5000', 'start': 21, 'end': 25, 'label': 'CARDINAL'}, {'text': 'the last quarter year', 'start': 39, 'end': 60, 'label': 'DATE'}]
+2024-03-28 11:05:11,105 - INFO - Extracted ordinal entities: [{'entity': '5000', 'words_from_text': '5000'}]
+2024-03-28 11:05:11,112 - INFO - 127.0.0.1 - - [28/Mar/2024 11:05:11] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:08:28,112 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-28 11:08:28,113 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-28 11:08:28,118 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:08:31,016 - WARNING -  * Debugger is active!
+2024-03-28 11:08:31,031 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:08:31,300 - INFO - 127.0.0.1 - - [28/Mar/2024 11:08:31] "GET / HTTP/1.1" 200 -
+2024-03-28 11:08:37,440 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 11:08:37,472 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}, {'text': '5000', 'start': 21, 'end': 25, 'label': 'CARDINAL'}, {'text': 'the last quarter year', 'start': 39, 'end': 60, 'label': 'DATE'}]
+2024-03-28 11:08:37,472 - INFO - Extracted ordinal entities: [{'entity': '5000', 'words_from_text': '5000'}]
+2024-03-28 11:08:37,478 - INFO - 127.0.0.1 - - [28/Mar/2024 11:08:37] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:08:50,839 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 11:08:50,867 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}, {'text': '5000', 'start': 21, 'end': 25, 'label': 'CARDINAL'}, {'text': 'the last quarter year', 'start': 39, 'end': 60, 'label': 'DATE'}]
+2024-03-28 11:08:50,868 - INFO - Extracted ordinal entities: [{'entity': '5000', 'words_from_text': '5000'}]
+2024-03-28 11:08:50,872 - INFO - 127.0.0.1 - - [28/Mar/2024 11:08:50] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:10:27,430 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-28 11:10:27,430 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-28 11:10:27,436 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:10:29,957 - WARNING -  * Debugger is active!
+2024-03-28 11:10:29,969 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:10:30,265 - INFO - 127.0.0.1 - - [28/Mar/2024 11:10:30] "GET / HTTP/1.1" 200 -
+2024-03-28 11:10:38,364 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 11:10:38,397 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}, {'text': '5000', 'start': 21, 'end': 25, 'label': 'CARDINAL'}, {'text': 'the last quarter year', 'start': 39, 'end': 60, 'label': 'DATE'}]
+2024-03-28 11:10:38,398 - INFO - Extracted ordinal entities: [{'entity': '5000', 'words_from_text': '5000'}]
+2024-03-28 11:10:38,406 - INFO - 127.0.0.1 - - [28/Mar/2024 11:10:38] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:10:56,395 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 11:10:56,423 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}, {'text': '5000', 'start': 21, 'end': 25, 'label': 'CARDINAL'}, {'text': 'the last quarter year', 'start': 39, 'end': 60, 'label': 'DATE'}]
+2024-03-28 11:10:56,424 - INFO - Extracted ordinal entities: [{'entity': '5000', 'words_from_text': '5000'}]
+2024-03-28 11:10:56,430 - INFO - 127.0.0.1 - - [28/Mar/2024 11:10:56] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:10:56,441 - INFO - 127.0.0.1 - - [28/Mar/2024 11:10:56] "GET /download_csv?csv_file_path=downloads%2Fentity_table.csv HTTP/1.1" 200 -
+2024-03-28 11:14:25,161 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-28 11:14:25,161 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-28 11:14:25,167 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:14:27,353 - WARNING -  * Debugger is active!
+2024-03-28 11:14:27,367 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:14:27,777 - INFO - 127.0.0.1 - - [28/Mar/2024 11:14:27] "GET / HTTP/1.1" 200 -
+2024-03-28 11:14:34,929 - INFO - Received text: Apple had solde over 5000 iphones over the last quarter year
+2024-03-28 11:14:34,954 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}, {'text': '5000', 'start': 21, 'end': 25, 'label': 'CARDINAL'}, {'text': 'the last quarter year', 'start': 39, 'end': 60, 'label': 'DATE'}]
+2024-03-28 11:14:34,954 - INFO - Extracted ordinal entities: [{'entity': '5000', 'words_from_text': '5000'}]
+2024-03-28 11:14:34,960 - INFO - 127.0.0.1 - - [28/Mar/2024 11:14:34] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:14:54,850 - INFO - Received text: Apple had sold over 5000 iphones over the last quarter year
+2024-03-28 11:14:54,881 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}, {'text': 'over 5000', 'start': 15, 'end': 24, 'label': 'CARDINAL'}, {'text': 'the last quarter year', 'start': 38, 'end': 59, 'label': 'DATE'}]
+2024-03-28 11:14:54,881 - INFO - Extracted ordinal entities: [{'entity': 'over 5000', 'words_from_text': '5000'}]
+2024-03-28 11:14:54,886 - INFO - 127.0.0.1 - - [28/Mar/2024 11:14:54] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:14:59,371 - INFO - Received text: Apple had sold over 5000 iphones over the last quarter year
+2024-03-28 11:14:59,395 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}, {'text': 'over 5000', 'start': 15, 'end': 24, 'label': 'CARDINAL'}, {'text': 'the last quarter year', 'start': 38, 'end': 59, 'label': 'DATE'}]
+2024-03-28 11:14:59,396 - INFO - Extracted ordinal entities: [{'entity': 'over 5000', 'words_from_text': '5000'}]
+2024-03-28 11:14:59,400 - INFO - 127.0.0.1 - - [28/Mar/2024 11:14:59] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:14:59,410 - INFO - 127.0.0.1 - - [28/Mar/2024 11:14:59] "GET /download_csv?csv_file_path=downloads%2Fentity_table.csv HTTP/1.1" 200 -
+2024-03-28 11:15:27,401 - INFO - Received text: Apple had sold over 5000 iphones over the last quarter year
+2024-03-28 11:15:27,412 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 0, 'end': 5, 'label': 'ORG'}]
+2024-03-28 11:15:27,413 - INFO - Extracted ordinal entities: [{'entity': 'over 5000', 'words_from_text': '5000'}]
+2024-03-28 11:15:27,416 - INFO - 127.0.0.1 - - [28/Mar/2024 11:15:27] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:17:24,392 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold nearly 7 thousand walkman music players.
+2024-03-28 11:17:24,425 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-28 11:17:24,426 - INFO - Extracted ordinal entities: [{'entity': 'nearly 20 thousand', 'words_from_text': 'thousand'}, {'entity': 'nearly 7 thousand', 'words_from_text': 'thousand'}]
+2024-03-28 11:17:24,429 - INFO - 127.0.0.1 - - [28/Mar/2024 11:17:24] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:17:30,461 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold nearly 7 thousand walkman music players.
+2024-03-28 11:17:30,474 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-28 11:17:30,474 - INFO - Extracted ordinal entities: [{'entity': 'nearly 20 thousand', 'words_from_text': 'thousand'}, {'entity': 'nearly 7 thousand', 'words_from_text': 'thousand'}]
+2024-03-28 11:17:30,477 - INFO - 127.0.0.1 - - [28/Mar/2024 11:17:30] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:17:30,491 - INFO - 127.0.0.1 - - [28/Mar/2024 11:17:30] "GET /download_csv?csv_file_path=downloads%2Fentity_table.csv HTTP/1.1" 200 -
+2024-03-28 11:21:21,227 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-28 11:21:21,227 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-28 11:21:21,231 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:21:23,833 - WARNING -  * Debugger is active!
+2024-03-28 11:21:23,842 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:21:24,127 - INFO - 127.0.0.1 - - [28/Mar/2024 11:21:24] "GET / HTTP/1.1" 200 -
+2024-03-28 11:21:41,123 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold nearly 7 thousand walkman music players.
+2024-03-28 11:21:41,145 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-28 11:21:41,146 - INFO - Extracted ordinal entities: [{'entity': 'nearly 20 thousand', 'words_from_text': 'thousand'}, {'entity': 'nearly 7 thousand', 'words_from_text': 'thousand'}]
+2024-03-28 11:21:41,152 - INFO - 127.0.0.1 - - [28/Mar/2024 11:21:41] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:21:47,305 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold nearly 7 thousand walkman music players.
+2024-03-28 11:21:47,318 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-28 11:21:47,318 - INFO - Extracted ordinal entities: [{'entity': 'nearly 20 thousand', 'words_from_text': 'thousand'}, {'entity': 'nearly 7 thousand', 'words_from_text': 'thousand'}]
+2024-03-28 11:21:47,324 - INFO - 127.0.0.1 - - [28/Mar/2024 11:21:47] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:21:47,337 - INFO - 127.0.0.1 - - [28/Mar/2024 11:21:47] "GET /download_csv?csv_file_path=downloads%2Fentity_table.csv HTTP/1.1" 200 -
+2024-03-28 11:22:48,330 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-28 11:22:48,330 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-28 11:22:48,339 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:22:51,052 - WARNING -  * Debugger is active!
+2024-03-28 11:22:51,069 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:22:51,509 - INFO - 127.0.0.1 - - [28/Mar/2024 11:22:51] "GET / HTTP/1.1" 200 -
+2024-03-28 11:22:59,085 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold nearly 7 thousand walkman music players.
+2024-03-28 11:22:59,122 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-28 11:22:59,122 - INFO - Extracted ordinal entities: [{'entity': 'nearly 20 thousand', 'words_from_text': 'thousand'}, {'entity': 'nearly 7 thousand', 'words_from_text': 'thousand'}]
+2024-03-28 11:22:59,129 - INFO - 127.0.0.1 - - [28/Mar/2024 11:22:59] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:26:19,504 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold nearly 7 thousand walkman music players.
+2024-03-28 11:26:19,537 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'nearly 7 thousand', 'start': 109, 'end': 126, 'label': 'CARDINAL'}]
+2024-03-28 11:26:19,537 - INFO - Extracted ordinal entities: [{'entity': 'nearly 20 thousand', 'words_from_text': 'thousand'}, {'entity': 'nearly 7 thousand', 'words_from_text': 'thousand'}]
+2024-03-28 11:26:19,542 - INFO - 127.0.0.1 - - [28/Mar/2024 11:26:19] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:26:30,719 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold nearly 7 thousand walkman music players.
+2024-03-28 11:26:30,752 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-28 11:26:30,753 - INFO - Extracted ordinal entities: [{'entity': 'nearly 20 thousand', 'words_from_text': 'thousand'}, {'entity': 'nearly 7 thousand', 'words_from_text': 'thousand'}]
+2024-03-28 11:26:30,758 - INFO - 127.0.0.1 - - [28/Mar/2024 11:26:30] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:26:35,199 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold nearly 7 thousand walkman music players.
+2024-03-28 11:26:35,231 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'nearly 7 thousand', 'start': 109, 'end': 126, 'label': 'CARDINAL'}]
+2024-03-28 11:26:35,232 - INFO - Extracted ordinal entities: [{'entity': 'nearly 20 thousand', 'words_from_text': 'thousand'}, {'entity': 'nearly 7 thousand', 'words_from_text': 'thousand'}]
+2024-03-28 11:26:35,238 - INFO - 127.0.0.1 - - [28/Mar/2024 11:26:35] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:26:39,928 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold nearly 7 thousand walkman music players.
+2024-03-28 11:26:39,961 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-28 11:26:39,961 - INFO - Extracted ordinal entities: [{'entity': 'nearly 20 thousand', 'words_from_text': 'thousand'}, {'entity': 'nearly 7 thousand', 'words_from_text': 'thousand'}]
+2024-03-28 11:26:39,967 - INFO - 127.0.0.1 - - [28/Mar/2024 11:26:39] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:26:49,608 - INFO -  * Detected change in '/home/ajay/test_new_code/app.py', reloading
+2024-03-28 11:26:49,609 - INFO -  * Detected change in '/home/ajay/test_new_code/app.py', reloading
+2024-03-28 11:26:49,611 - INFO -  * Detected change in '/home/ajay/test_new_code/app.py', reloading
+2024-03-28 11:26:49,612 - INFO -  * Detected change in '/home/ajay/test_new_code/app.py', reloading
+2024-03-28 11:26:49,625 - INFO -  * Detected change in '/home/ajay/test_new_code/app.py', reloading
+2024-03-28 11:26:49,626 - INFO -  * Detected change in '/home/ajay/test_new_code/app.py', reloading
+2024-03-28 11:26:50,221 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:26:52,374 - WARNING -  * Debugger is active!
+2024-03-28 11:26:52,385 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:26:53,265 - INFO -  * Detected change in '/home/ajay/test_new_code/app.py', reloading
+2024-03-28 11:26:53,268 - INFO -  * Detected change in '/home/ajay/test_new_code/app.py', reloading
+2024-03-28 11:26:53,270 - INFO -  * Detected change in '/home/ajay/test_new_code/app.py', reloading
+2024-03-28 11:26:53,272 - INFO -  * Detected change in '/home/ajay/test_new_code/app.py', reloading
+2024-03-28 11:26:53,283 - INFO -  * Detected change in '/home/ajay/test_new_code/app.py', reloading
+2024-03-28 11:26:54,072 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:26:56,189 - WARNING -  * Debugger is active!
+2024-03-28 11:26:56,209 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:28:12,780 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-28 11:28:12,780 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-28 11:28:12,785 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:28:15,705 - WARNING -  * Debugger is active!
+2024-03-28 11:28:15,721 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:28:16,020 - INFO - 127.0.0.1 - - [28/Mar/2024 11:28:16] "GET / HTTP/1.1" 200 -
+2024-03-28 11:28:25,877 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold nearly 7 thousand walkman music players.
+2024-03-28 11:28:25,900 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-28 11:28:25,900 - INFO - Extracted ordinal entities: [{'entity': 'nearly 20 thousand', 'words_from_text': 'thousand'}, {'entity': 'nearly 7 thousand', 'words_from_text': 'thousand'}]
+2024-03-28 11:28:25,907 - INFO - 127.0.0.1 - - [28/Mar/2024 11:28:25] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:30:20,609 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-28 11:30:20,610 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-28 11:30:20,613 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:30:23,214 - WARNING -  * Debugger is active!
+2024-03-28 11:30:23,227 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:30:23,537 - INFO - 127.0.0.1 - - [28/Mar/2024 11:30:23] "GET / HTTP/1.1" 200 -
+2024-03-28 11:30:37,073 - INFO - Received text: 
+2024-03-28 11:30:37,075 - INFO - Extracted organization entities: []
+2024-03-28 11:30:37,076 - INFO - Extracted ordinal entities: []
+2024-03-28 11:30:37,092 - INFO - 127.0.0.1 - - [28/Mar/2024 11:30:37] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:31:03,425 - INFO - Received text: 
+2024-03-28 11:31:03,426 - INFO - Extracted organization entities: []
+2024-03-28 11:31:03,426 - INFO - Extracted ordinal entities: []
+2024-03-28 11:31:03,428 - INFO - 127.0.0.1 - - [28/Mar/2024 11:31:03] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:31:59,786 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-28 11:31:59,786 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-28 11:31:59,791 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:32:02,545 - WARNING -  * Debugger is active!
+2024-03-28 11:32:02,572 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:32:03,038 - INFO - 127.0.0.1 - - [28/Mar/2024 11:32:03] "GET / HTTP/1.1" 200 -
+2024-03-28 11:32:25,363 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.128:5000
+2024-03-28 11:32:25,364 - INFO - [33mPress CTRL+C to quit[0m
+2024-03-28 11:32:25,371 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:32:27,927 - WARNING -  * Debugger is active!
+2024-03-28 11:32:27,941 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:32:28,349 - INFO - 127.0.0.1 - - [28/Mar/2024 11:32:28] "GET / HTTP/1.1" 200 -
+2024-03-28 11:32:35,095 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold nearly 7 thousand walkman music players.
+2024-03-28 11:32:35,128 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-28 11:32:35,128 - INFO - Extracted ordinal entities: [{'entity': 'nearly 20 thousand', 'words_from_text': 'thousand'}, {'entity': 'nearly 7 thousand', 'words_from_text': 'thousand'}]
+2024-03-28 11:32:35,135 - INFO - 127.0.0.1 - - [28/Mar/2024 11:32:35] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:33:42,606 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold nearly 7 thousand walkman music players.
+2024-03-28 11:33:42,642 - INFO - Extracted organization entities: [{'text': 'the last quarter', 'start': 5, 'end': 21, 'label': 'DATE'}, {'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'nearly 20 thousand', 'start': 33, 'end': 51, 'label': 'CARDINAL'}, {'text': '$6 million', 'start': 74, 'end': 84, 'label': 'MONEY'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}, {'text': 'nearly 7 thousand', 'start': 109, 'end': 126, 'label': 'CARDINAL'}]
+2024-03-28 11:33:42,643 - INFO - Extracted ordinal entities: [{'entity': 'nearly 20 thousand', 'words_from_text': 'thousand'}, {'entity': 'nearly 7 thousand', 'words_from_text': 'thousand'}]
+2024-03-28 11:33:42,647 - INFO - 127.0.0.1 - - [28/Mar/2024 11:33:42] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:33:46,765 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold nearly 7 thousand walkman music players.
+2024-03-28 11:33:46,794 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-28 11:33:46,795 - INFO - Extracted ordinal entities: [{'entity': 'nearly 20 thousand', 'words_from_text': 'thousand'}, {'entity': 'nearly 7 thousand', 'words_from_text': 'thousand'}]
+2024-03-28 11:33:46,798 - INFO - 127.0.0.1 - - [28/Mar/2024 11:33:46] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:33:55,662 - INFO - Received text: Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold nearly 7 thousand walkman music players.
+2024-03-28 11:33:55,681 - INFO - Extracted organization entities: [{'text': 'Apple', 'start': 22, 'end': 27, 'label': 'ORG'}, {'text': 'sony', 'start': 99, 'end': 103, 'label': 'ORG'}]
+2024-03-28 11:33:55,681 - INFO - Extracted ordinal entities: [{'entity': 'nearly 20 thousand', 'words_from_text': 'thousand'}, {'entity': 'nearly 7 thousand', 'words_from_text': 'thousand'}]
+2024-03-28 11:33:55,686 - INFO - 127.0.0.1 - - [28/Mar/2024 11:33:55] "POST /process_text HTTP/1.1" 200 -
+2024-03-28 11:33:55,697 - INFO - 127.0.0.1 - - [28/Mar/2024 11:33:55] "GET /download_csv?csv_file_path=downloads%2Fentity_table.csv HTTP/1.1" 200 -
+2024-03-28 11:43:30,026 - INFO -  * Detected change in '/home/ajay/test_new_code/app.py', reloading
+2024-03-28 11:43:30,052 - INFO -  * Detected change in '/home/ajay/test_new_code/app.py', reloading
+2024-03-28 11:43:30,819 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:43:32,687 - WARNING -  * Debugger is active!
+2024-03-28 11:43:32,698 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:43:50,949 - INFO -  * Detected change in '/home/ajay/test_new_code/app.py', reloading
+2024-03-28 11:43:51,894 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:43:53,842 - WARNING -  * Debugger is active!
+2024-03-28 11:43:53,852 - INFO -  * Debugger PIN: 625-412-509
+2024-03-28 11:45:30,854 - INFO -  * Detected change in '/home/ajay/test_new_code/app.py', reloading
+2024-03-28 11:45:32,024 - INFO -  * Restarting with watchdog (inotify)
+2024-03-28 11:45:33,871 - WARNING -  * Debugger is active!
+2024-03-28 11:45:33,882 - INFO -  * Debugger PIN: 625-412-509

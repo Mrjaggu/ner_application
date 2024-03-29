@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Named Entity Recognition</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* Darker yellow for entity highlight */
+        mark {
+            background-color: #ffd700; /* Darker shade of yellow */
+            color: black; /* Black text for better contrast */
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-lg-6 offset-lg-3">
+                <h1 class="text-center mb-4">Named Entity Recognition</h1>
+                <textarea id="text" class="form-control mb-3" rows="8" placeholder="Enter your text here..."></textarea>
+                <div class="form-group">
+                    <select id="entityType" class="form-control mb-3">
+                        <option value="all">All Entities</option>
+                        <option value="org">Organizations</option>
+                    </select>
+                </div>
+                <div class="text-center">
+                    <button class="btn btn-primary mr-3" onclick="processText()">Process Text</button>
+                    <button class="btn btn-success" onclick="downloadEntityTable()">Download Entity Table</button>
+                    <button class="btn btn-secondary" onclick="insertPredefinedText()">Insert Pre-defined Text</button>
+                </div>
+                <div id="result" class="mt-4"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer mt-auto py-3 bg-light">
+        <div class="container text-center">
+            <span class="text-muted">Created by Group 8</span>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script>
+        async function processText() {
+            try {
+                const text = document.getElementById("text").value;
+                const entityType = document.getElementById("entityType").value;
+                const response = await axios.post("/process_text", {text: text, entityType: entityType});
+                console.log("Response from server:", response.data); // Log the response
+                
+                const orgEntities = response.data.org_entities;
+                const resultDiv = document.getElementById("result");
+                
+                // Display extracted entities
+                let processedText = text;
+                orgEntities.forEach(entity => {
+                    processedText = processedText.replace(entity.text, `<mark title="${entity.label}">${entity.text}</mark>`);
+                });
+                resultDiv.innerHTML = `<p>${processedText}</p>`;
+                
+            } catch (error) {
+                console.error("Error processing text:", error);
+            }
+        }
+
+        async function downloadEntityTable() {
+            try {
+                const text = document.getElementById("text").value;
+                const entityType = document.getElementById("entityType").value;
+                const response = await axios.post("/process_text", {text: text, entityType: entityType});
+                const csvFilePath = response.data.csv_file_path;
+                const csvFileUrl = `/download_csv?csv_file_path=${encodeURIComponent(csvFilePath)}`;
+                const a = document.createElement('a');
+                a.href = csvFileUrl;
+                a.download = 'entity_table.csv';
+                document.body.appendChild(a); // Append anchor to body
+                a.click();
+                document.body.removeChild(a); // Remove anchor from body after download
+            } catch (error) {
+                console.error("Error downloading entity table:", error);
+            }
+        }
+
+        // Function to insert pre-defined input text into the textarea
+        function insertPredefinedText() {
+            const predefinedText = "Over the last quarter Apple sold nearly 20 thousand Ipods for a profit of $6 million. By contrast, sony sold nearly 7 thousand walkman music players.";
+            document.getElementById("text").value = predefinedText;
+        }
+    </script>
+</body>
+</html>

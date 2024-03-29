@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Named Entity Recognition</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+<body>
+    <h1>Named Entity Recognition</h1>
+    <textarea id="text" rows="10" cols="50"></textarea><br>
+    <select id="entityType">
+        <option value="all">All Entities</option>
+        <option value="org">Organizations</option>
+    </select>
+    <button onclick="processText()">Process Text</button>
+    <button onclick="downloadEntityTable()">Download Entity Table</button><br><br>
+    
+    <div id="result"></div>
+    
+    <script>
+        async function processText() {
+            try {
+                const text = document.getElementById("text").value;
+                const entityType = document.getElementById("entityType").value;
+                const response = await axios.post("/process_text", {text: text, entityType: entityType});
+                console.log("Response from server:", response.data); // Log the response
+                const entities = response.data.org_entities;
+                const resultDiv = document.getElementById("result");
+                
+                // Display extracted entities
+                let entityList = "<ul>";
+                entities.forEach(entity => {
+                    entityList += `<li>${entity.text} (${entity.label})</li>`;
+                });
+                entityList += "</ul>";
+                resultDiv.innerHTML = entityList;
+            } catch (error) {
+                console.error("Error processing text:", error);
+            }
+        }
+
+        async function downloadEntityTable() {
+            try {
+                const text = document.getElementById("text").value;
+                const entityType = document.getElementById("entityType").value;
+                const response = await axios.post("/process_text", {text: text, entityType: entityType});
+                const csvFilePath = response.data.csv_file_path;
+                const csvFileUrl = `/download_csv?csv_file_path=${encodeURIComponent(csvFilePath)}`;
+                const a = document.createElement('a');
+                a.href = csvFileUrl;
+                a.download = 'entity_table.csv';
+                document.body.appendChild(a); // Append anchor to body
+                a.click();
+                document.body.removeChild(a); // Remove anchor from body after download
+            } catch (error) {
+                console.error("Error downloading entity table:", error);
+            }
+        }
+    </script>
+</body>
+</html>
